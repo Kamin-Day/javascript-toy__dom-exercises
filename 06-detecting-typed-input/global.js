@@ -1,1 +1,6 @@
-// Your JavaScript goes here.
+window.addEventListener("load", function(){
+
+
+
+
+});// Your JavaScript goes here.
